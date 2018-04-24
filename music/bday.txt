@@ -1,0 +1,42 @@
+D4@1/8
+D4@1/8
+E4@1/4
+D4@1/4
+G4@1/4
+F#4@1/2
+
+D4@1/8
+D4@1/8
+E4@1/4
+D4@1/4
+G4@1/4
+F4@1/2
+
+D4@1/8
+D4@1/8
+D5@1/4
+B4@1/4
+
+G4@1/4
+F#4@1/4
+E4@1/4
+
+C5@1/8
+C5@1/8
+B4@1/4
+G4@1/4
+A4@1/4
+G4@1/2
+
+TODO
+read the sheet music for Happy Birthday
+figure out which notes are being play
+write dow the ASCII representation notes
+in a file called bday.txt
+
+# = sharp
+b = flat
+
+C4@1/8  = C, fourth octave, eight note
+C#4@1/8 = C#, fouth octave, eight note
+Cb4@1/4 = Cb, fourth octave, quarter note
