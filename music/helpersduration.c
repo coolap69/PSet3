@@ -26,7 +26,9 @@ int main(void)
     //whole number of eighth notes
 
     // int dur = GetInt(string fraction);
-int num = 10;
+    int numerator = str;
+    int denominator;
+    
     switch (dur[2])
     {
     case 1:
