@@ -16,12 +16,12 @@ int main(void)
 
     // if s represents a rest, returns true;
     //otherwise, retu2rns false
-string empty = "";
+// string empty = "";
 
-int compare = strcmp(s, empty);
+// int compare = strcmp(s, empty);
 
-    // if (s == "\0")
-     if (compare == 0)
+    if (s[0] == "\0")
+    //  if (compare == 0)
     {
         printf("true");
         return true;
